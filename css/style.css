@@ -154,8 +154,66 @@ footer h4{
 	font-weight:600;
 }
 
-
-
-
+#lugares-centro h3{
+	font-size: 22px;
+	color: #0e0b1e;
+	margin-top: 2px 0;	
 	
+}
+
+#lugares-centro p{
+	font-size: 14px; 
+	color: #0e0b1e;
+	letter-spacing: 1px;
+	text-align: justify;
+}
+
+#playas-centro h3{
+	font-size: 22px;
+	color: #0e0b1e;
+	margin-top: 2px 0;	
+}
+
+#playas-centro p{
+	font-size: 14px; 
+	color: #0e0b1e;
+	letter-spacing: 1px;
+	text-align: justify;
+}
 	
+
+#suramerica h1{
+	color: #0e0b1e;
+	text-align: center;
+	font-size: 70px;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#lugares-sur h3{
+	font-size: 22px;
+	color: #0e0b1e;
+	margin-top: 2px 0;	
+}
+
+#lugares-sur p{
+	font-size: 14px; 
+	color: #0e0b1e;
+	letter-spacing: 1px;
+	text-align: justify;
+}
+
+#playas-sur h3{
+	font-size: 22px;
+	color: #0e0b1e;
+	margin-top: 2px 0;	
+}
+
+#playas-sur p{
+	font-size: 14px; 
+	color: #0e0b1e;
+	letter-spacing: 1px;
+	text-align: justify;
+}
+
+
